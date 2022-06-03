@@ -1,14 +1,14 @@
-# ogz_mobile
+# OGZ
 
-A new Flutter project.
+A Flutter App Prototype Built by Team OGZ.
 
-## SDK Versions
+## SDK Versions Used/Valid in OGZ
 
 Dart SDK Version 2.12.0 or greater.
 
 Flutter SDK Version 2.0.0 or greater.
 
-## Libraries
+## Libraries used in OGZ
 
 
 1. get - State management
@@ -25,20 +25,10 @@ https://pub.dev/packages/shared_preferences
 https://pub.dev/packages/cached_network_image
 
 ## Code - Formatting
-- if your code is not formatted then run following command in your terminal to format code
+- if the code is not formatted then run following command in your terminal to format code
 ```
 dart format .
 ```
-
-
-## Figma design guideline for better accuracy
-
-Read our guidelines to increase the accuracy of design conversion to code by optimizing Figma designs.
-https://docs.dhiwise.com/knowledgehub/reference-guide-and-tools/figma
-
-## App Navigation
-
-Check your app's UI from the AppNavigation screen of your app.
 
 ## Package Structure
 

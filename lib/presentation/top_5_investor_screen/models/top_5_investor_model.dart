@@ -1,0 +1,1 @@
+class Top5InvestorModel {}
